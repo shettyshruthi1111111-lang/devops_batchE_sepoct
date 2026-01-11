@@ -79,3 +79,42 @@ git status
 ls
 git status
 git init
+which git
+git init
+git status
+git add .
+git status
+git commit -m 'this my first commit"
+
+:wq
+
+
+lear
+clear
+git status
+
+
+
+git init
+git status
+git commit -m "this my first commit"
+git status
+git log
+git log -online
+git log --online
+git log --oneline
+git remote add origin https://github.com/shettyshruthi1111111-lang/devops_batchE_sepoct.git
+git push origin master
+git status
+git log
+which git
+which jenkins
+kubectl get nodes
+which dicker
+which docker
+usermod -aG docker jenkins
+reboot
+which jenkins
+cat /var/lib/jenkins/secrets/initialAdminPassword
+clear
+git push origin master
